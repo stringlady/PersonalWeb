@@ -2,9 +2,9 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    background-color: #A30015;
+    background-color: #c1b8c8;
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 #ex1 {
