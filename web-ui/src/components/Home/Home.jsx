@@ -5,6 +5,7 @@ import Navbar from '../NavBar/Navbar';
 import AboutMe from '../AboutMe/AboutMe';
 import Projects from '../MyProjects/Projects';
 import Experience from '../Experience/Experience';
+import Resume from '../Footer/Resume/Resume';
 
 function Home() {
     return (
@@ -25,6 +26,10 @@ function Home() {
                 <h3>Experience</h3>
             </div>
             <Experience/>
+            <div id="label1">
+                <h3>Resume</h3>
+            </div>
+            <Resume/>
             <Footer/>
         </div>
     )
