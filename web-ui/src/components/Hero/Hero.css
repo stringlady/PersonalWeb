@@ -1,0 +1,23 @@
+#hero {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-color: #DF99F0;
+}
+
+#hero h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+#hero h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.me {
+    width: 300px;
+    height: 300px;
+}

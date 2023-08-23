@@ -1,0 +1,20 @@
+#hover {
+    cursor: pointer;
+    width: 75px;
+    height: 75px;
+    transition: transform .2s;
+}
+
+#hover:hover {
+    transform: scale(1.1);
+}
+
+#footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 30px;
+    background-color: #B191FF;
+    align-items: center;
+}

@@ -1,0 +1,61 @@
+#projects {
+    background-color: #BD2D87;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#project {
+    padding: 30px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: 475px;
+    text-align: center;
+}
+
+#project h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#project p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#project a {
+    text-decoration: none;
+    color: black;
+}
+
+#project a:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+#fin {
+    width: 350px;
+    height: 200px;
+}
+
+#orb {
+    width: 250px;
+    height: 250px;
+}
+
+#bee {
+    width: 275px;
+    height: 275px;
+}
+
+#koala {
+    width: 300px;
+    height: 300px;
+}
+
+.break {
+    padding-bottom: 50px;
+}

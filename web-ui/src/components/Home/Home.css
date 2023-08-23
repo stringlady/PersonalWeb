@@ -1,0 +1,39 @@
+#label {
+    background-color: #D664BE;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#label h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+#label1 {
+    background-color: #BD2D87;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#label1 h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+#label2 {
+    background-color: #A30015;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#label2 h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+

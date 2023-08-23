@@ -1,0 +1,39 @@
+#aboutme {
+    background-color: #D664BE;
+    padding-bottom: 50px;
+}
+
+.aboutme2 {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    text-align: center;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.aboutme2 p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#skills {
+    display: flex;
+    justify-content: space-around;
+}
+
+.languages {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.languages p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+
+.languages h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
