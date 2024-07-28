@@ -28,6 +28,9 @@ function AboutMe() {
                     <p>SQL</p>
                     <p>PHP</p>
                     <p>R</p>
+                    <p>C</p>
+                    <p>APEX</p>
+                    <p>SOQL</p>
                 </div>
                 
                 <div className='languages'>
@@ -39,12 +42,14 @@ function AboutMe() {
                     <p>VS Code</p>
                     <p>Figma</p>
                     <p>XCode</p>
+                    <p>MongoDB</p>
                 </div>
                 <div className='languages'>
                     <h3>Frameworks/Libraries</h3>
                     <p>REACT</p>
                     <p>Node.js</p>
                     <p>Express.js</p>
+                    <p>Bootstrap</p>
                 </div>
             </div>
         </div>

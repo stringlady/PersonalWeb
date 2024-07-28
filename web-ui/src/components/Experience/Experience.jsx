@@ -4,6 +4,19 @@ function Experience() {
     return (
         <div id='ex'>
             <div id='ex1'>
+                <h1>Lumen Technologies</h1>
+                <h2>Software Developer Intern</h2>
+                <h3>June - August 2024  </h3>
+                <ul id="list">
+                    <li>Partnered with elite engineering teams to spearhead and deploy transformative enhancements for Quantum Fiber services, including
+                    increased bandwidth, improved latency, and enhanced network reliability.</li>
+                    <li>Applied advanced Salesforce, SOQL, and Apex skills to design and implement solutions for tracking field technicians and automating
+                    service record updates.</li>
+                    <li>Engineered a logging dashboard with React, empowering engineers to monitor API responses and pinpoint specific errors with precision.</li>
+                    <li>Enhanced QMate platform, an innovative site enabling administrators to efficiently monitor and manage locations and devices.</li>
+                </ul>
+            </div>
+            <div id='ex1'>
                 <h1>Course Hero</h1>
                 <h2>Full Stack Developer, SITE Intern</h2>
                 <h3>June - August 2023 </h3>
@@ -27,18 +40,6 @@ function Experience() {
                     <li>Diagnosed and resolved website bugs, broken links, and performance issues, optimizing user experience and navigation.</li>
                     <li>Integrated design and content improvements, resulting in a more engaging and accessible website interface.</li>
                     <li>Contributed to multimedia integration and discussions on leveraging technology to amplify the organization's mission, extending its reach.</li>
-                </ul>
-            </div>
-            <div id='ex1'>
-                <h1>Equitable Advisors</h1>
-                <h2>Financial Intern</h2>
-                <h3>June - August 2022  </h3>
-                <ul id="list">
-                    <li>Managed and updated client dashboards and statistics through platforms like SalesForce and EMoney, ensuring accurate and up-to-date financial information.
-                    </li>
-                    <li>Actively participated in client meetings, discussing their financial standing, addressing queries, and fostering stronger client relationships.</li>
-                    <li>Provided insights to potential clients about the company's financial advisory services, aiding in their decision-making process and establishing a positive initial impression.</li>
-                    <li>Played a role in expanding the client base by identifying and compiling a list of potential new clients, supporting business growth and outreach efforts.</li>
                 </ul>
             </div>
         </div>

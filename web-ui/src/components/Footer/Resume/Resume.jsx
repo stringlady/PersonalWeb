@@ -3,7 +3,7 @@ import './Resume.css'
 function Resume() {
     return (
         <div id="resume">
-            <iframe src="https://drive.google.com/file/d/1zD9JI06BiDgRUrSuGmTX-OmEdHLLcGiW/preview" width="700px" height="700px"></iframe>
+            <iframe src="https://drive.google.com/file/d/1apw-jNipcRDdaG3I7Gu8XvnpKzXUDCWB/preview" width="700px" height="700px"></iframe>
         </div>
     )
 }

@@ -18,7 +18,7 @@ function Home() {
             
             <AboutMe/>
             <div id="label1">
-                <h3>My Projects</h3>
+                <h3>Projects</h3>
             </div>
             
             <Projects/>

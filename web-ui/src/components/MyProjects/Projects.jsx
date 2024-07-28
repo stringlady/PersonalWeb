@@ -9,26 +9,35 @@ function Projects() {
         <div id='projects'>
             <div className='break'>
             <div id='project'>
-                <img id="fin" src={fin}/>
+                {/* <img id="fin" src={fin}/> */}
+                <h3>QMate Dashboard</h3>
+                <p>During my internship at Lumen Technologies, I developed the QMATE Dashboard using React to enable administrators to monitor API calls and responses effectively. 
+                    I implemented robust search functionality by Account ID and username, displaying the latest 100 logs in categorized tabs. 
+                    I integrated advanced filters for request type, priority, account, and date, streamlining log analysis. 
+                    Detailed log inspection was facilitated through modal popups, providing comprehensive request and response data. 
+                    Development was conducted using Visual Studio Code, with version control managed via Git.</p>
+            </div>
+            </div>
+            <div className='break'>
+            <div id='project'>
+                {/* <img id="fin" src={fin}/> */}
                 <h3>FINFLEX</h3>
                 <p>Developed FinFlex, a dynamic web application, utilizing the PERN stack (PostgreSQL, Express, React, and Node.js), with a team of two other engineers, seamlessly blending powerful backend and user-friendly frontend technologies to create a comprehensive financial platform. </p>
                 <a href='https://github.com/teamjar/FINFLEX' target='_blank' rel='noreferrer'><p>Github Repo Link</p></a>
-                <a href='https://finflex-nbp4.onrender.com' target='_blank' rel='noreferrer'><p>Website Link</p></a>
+                {/* <a href='https://finflex-nbp4.onrender.com' target='_blank' rel='noreferrer'><p>Website Link</p></a> */}
             </div>
             </div>
             <div className='break'>
             <div id='project'>
-                <img id="orb" src={orb}/>
-                <h3>Orb of Power</h3>
-                <p>Orb of Power is an IOS game designed using the Programming Language Swift and the Software XCode. 
-                    The game is a level based game in where you need to make it to the end of the level by collecting orbs to 
-                    move from water to land. </p>
-                <a href='https://github.com/stringlady/OrbOfPower' target='_blank' rel='noreferrer'><p>Github Repo Link</p></a>
+                {/* <img id="koala" src={koala}/> */}
+                <h3>Image Processing</h3>
+                <p>Developed and implemented an image processing project utilizing Java and a GUI, focusing on enhancing and manipulating images through various algorithms and filters </p>
+                <a href='https://github.com/stringlady/Image-Processing' target='_blank' rel='noreferrer'><p>Github Repo Link</p></a>
             </div>
             </div>
             <div className='break'>
             <div id='project'>
-                <img id="bee" src={bee}/>
+                {/* <img id="bee" src={bee}/> */}
                 <h3>Spelling Bee</h3>
                 <p>Spelling Bee is a game in which you are given seven letters and you must match as many words as you can 
                     with the seven letters provided. This project was made using DrRacket. </p>
@@ -37,12 +46,14 @@ function Projects() {
             </div>
             <div className='break'>
             <div id='project'>
-                <img id="koala" src={koala}/>
-                <h3>Image Processing</h3>
-                <p>Developed and implemented an image processing project utilizing Java and a GUI, focusing on enhancing and manipulating images through various algorithms and filters </p>
-                <a href='https://github.com/stringlady/Image-Processing' target='_blank' rel='noreferrer'><p>Github Repo Link</p></a>
+                {/* <img id="orb" src={orb}/> */}
+                <h3>Orb of Power</h3>
+                <p>Orb of Power is an IOS game designed using the Programming Language Swift and the Software XCode. 
+                    The game is a level based game in where you need to make it to the end of the level by collecting orbs to 
+                    move from water to land. </p>
+                <a href='https://github.com/stringlady/OrbOfPower' target='_blank' rel='noreferrer'><p>Github Repo Link</p></a>
             </div>
-            </div>
+            </div> 
         </div>
     )
 }
